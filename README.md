@@ -18,7 +18,7 @@
 ## 🙋‍♂️About me
 ### IT Support Specialist | Entry-level Cloud Associate🌐☁️| Cybersecurity Enthusiast🔒 
 
-I'm from the U.S📍Currently in the Eastern Standard Time🌎 I'm a huge fan of Cloud Computing☁️ & Cybersecurity🔐🛡️I’m currently working on this page to showcase my technical projects. I have over 5 years of exprience in IT Support💻🛠️ Looking to transition to Cloud or Cybersecurity very soon🔝🛜 
+I'm from the U.S📍Currently in the Eastern Standard Time🌎 I'm a huge fan of Cloud Computing☁️ & Cybersecurity🔐🛡️I’m currently working on this page to showcase my technical projects. I have over 5 years of exprience in IT Support💻🛠️ Looking to transition to the Cloud or Cybersecurity very soon🔝🛜 (On a journey!)
 
 ## 🔭🔨I’m currently working on 
 
