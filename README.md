@@ -42,5 +42,6 @@ I'm from the U.S📍Currently in the Eastern Standard Time🌎 I'm a huge fan of
 
 <h2>🖥️Azure Projects:🖥️</h2>
 
+- [High Available Web Application in a Multi-Region](https://github.com/ErickL1808/Custom-Multi-Region-Web-Application-in-Azure)
 - [Creating a Virutal Machine](https://github.com/ErickL1808/Creating-a-VM-in-Azure)
 - [Using Azure Cloud Shell to create a Linux VM](https://github.com/ErickL1808/Creating-a-Linux-VM-with-Azure-CloudShell)
